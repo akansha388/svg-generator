@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 Overview & Key Capabilities
+## Overview & Key Capabilities
 
 The **AI-Powered SVG Banner & Infographic Generation Engine** is an enterprise-grade automated pipeline designed to bridge the gap between Generative AI content synthesis and deterministic, high-quality vector rendering.
 
@@ -19,7 +19,7 @@ The **AI-Powered SVG Banner & Infographic Generation Engine** is an enterprise-g
 
 ---
 
-## 🏗️ Architecture & System Design
+## Architecture & System Design
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -80,7 +80,7 @@ The **AI-Powered SVG Banner & Infographic Generation Engine** is an enterprise-g
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 svg-generator/
@@ -149,7 +149,7 @@ svg-generator/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 - **Python 3.10+** (Tested on Python 3.13.3)
@@ -179,7 +179,7 @@ export GEMINI_API_KEY="your-gemini-api-key"
 
 ---
 
-## 💻 Running the Redesigned Web Application & Studio
+## Running the Redesigned Web Application & Studio
 
 You can launch the complete interactive web application with real-time generation and visual browsing:
 
@@ -195,7 +195,7 @@ python -m http.server 8000
 # Open http://localhost:8000/preview/
 ```
 
-### 🌿 Redesigned Natural & Modern Web Studio Features
+### Redesigned Natural & Modern Web Studio Features
 1. **Gallery & Contact Sheet (104):** Filter and search all 104 generated SVGs with category chips, layout filters, and card zoom.
 2. **Representative Showcase (14):** Curated set of the top 14 highlight designs with rationale notes.
 3. **Live Studio Generator:** Dynamic on-the-fly SVG generation with topic randomizer, palette selector, layout picker, live preview canvas, and immediate code copy / file download!
@@ -204,7 +204,7 @@ python -m http.server 8000
 
 ---
 
-## 💻 CLI Usage & Commands
+## CLI Usage & Commands
 
 ### 1. Generate All 104 SVGs (Batch Mode)
 Generates the complete 104-design catalog spanning 13 categories and 10 layouts:
@@ -246,7 +246,7 @@ Available layout choices for `--template`:
 
 ---
 
-## 🔍 Validation & Quality Assurance
+## Validation & Quality Assurance
 
 Run the automated quality assurance suite on any directory of SVGs:
 
@@ -269,7 +269,7 @@ The validator checks:
 
 ---
 
-## 🖼️ Interactive Contact Sheet & Preview Gallery
+## Interactive Contact Sheet & Preview Gallery
 
 To build or refresh the interactive contact sheet and curate the representative set:
 
@@ -292,7 +292,7 @@ To view the interactive gallery:
 
 ---
 
-## 🧪 Automated Testing
+## Automated Testing
 
 Execute the test suite using `pytest`:
 
@@ -307,7 +307,7 @@ All 16 unit tests verify:
 
 ---
 
-## 📊 Summary Metrics
+## Summary Metrics
 
 - **Total Generated Designs:** 104
 - **Pass Rate:** 100.0% (104 / 104 Passed)
@@ -318,7 +318,7 @@ All 16 unit tests verify:
 
 ---
 
-## ⚖️ Originality & IP Compliance
+## Originality & IP Compliance
 
 In accordance with Section 4.C (*Originality Compliance and Intellectual Property*):
 - **100% Original Vector Assets:** All 45+ icons, cards, gradients, and layout templates were authored specifically for this engine.
@@ -327,7 +327,7 @@ In accordance with Section 4.C (*Originality Compliance and Intellectual Propert
 
 ---
 
-## 📄 License & Attribution
+## License & Attribution
 
 Developed for the **Shri Genesis Software Solutions** Gen AI Technical Assessment.  
 Licensed under the **MIT License**.
