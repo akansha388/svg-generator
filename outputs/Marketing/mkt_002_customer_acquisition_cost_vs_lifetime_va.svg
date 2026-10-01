@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+
+        <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#2A082C" />
+            <stop offset="100%" stop-color="#3B0D2D" />
+        </linearGradient>
+
+        <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#F43F5E" />
+            <stop offset="100%" stop-color="#F97316" />
+        </linearGradient>
+
+        <linearGradient id="highlightGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#F97316" />
+            <stop offset="100%" stop-color="#FB923C" />
+        </linearGradient>
+
+        <filter id="cardShadow" x="-10%" y="-10%" width="125%" height="125%">
+            <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+        </filter>
+
+        <filter id="accentGlow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="8" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+
+        <pattern id="dotGrid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+            <circle cx="2" cy="2" r="1.2" fill="rgba(255, 255, 255, 0.05)" />
+        </pattern>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bgGradient)" />
+  <rect width="1200" height="800" fill="url(#dotGrid)" />
+  <circle cx="1020.0" cy="120.0" r="360.0" fill="#F43F5E" opacity="0.12" filter="blur(60px)" />
+  <circle cx="120.0" cy="680.0" r="280.0" fill="#F97316" opacity="0.08" filter="blur(50px)" />
+  <path d="M 0,200.0 L 180.0,0" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" />
+  <path d="M 1020.0,800 L 1200,600.0" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" />
+  <rect x="80.0" y="70.0" width="254.4" height="26.0" rx="13.0" fill="rgba(244, 63, 94, 0.20)" stroke="#FECDD3" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(88.0, 76.0) scale(0.583)" stroke="#FECDD3" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/><line x1="6" y1="20" x2="6" y2="16"/><line x1="2" y1="20" x2="22" y2="20"/></g>
+  <text x="108.0" y="87.2" fill="#FECDD3" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2px">BENCHMARK REPORT • MARKETING</text>
+  <text x="80.0" y="140.0" fill="#FFF1F2" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" text-anchor="start"><tspan x="80.0">Customer Acquisition Cost vs Lifetime</tspan><tspan x="80.0" dy="44.8">Value Benchmark</tspan></text>
+  <text x="80.0" y="219.8" fill="#FDA4AF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="400" text-anchor="start"><tspan x="80.0">Comprehensive framework, key telemetry milestones, and actionable</tspan><tspan x="80.0" dy="23.8">principles for Customer Acquisition Cost vs Lifetime Value</tspan><tspan x="80.0" dy="23.8">Benchmark.</tspan></text>
+  <rect x="80.0" y="312.4" width="495.0" height="190.0" rx="20.0" fill="rgba(48, 14, 40, 0.72)" stroke="rgba(244, 63, 94, 0.32)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <path d="M 100.0,312.4 H 555.0" stroke="url(#accentGradient)" stroke-width="3" stroke-linecap="round" />
+  <g transform="translate(104.0, 336.4) scale(1.167)" stroke="#FB923C" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <rect x="455.0" y="334.4" width="133.5" height="24.0" rx="12.0" fill="rgba(16, 185, 129, 0.15)" stroke="#34D399" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(463.0, 339.4) scale(0.583)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <text x="483.0" y="349.9" fill="#34D399" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">+68% CONVERSION</text>
+  <text x="104.0" y="417.4" fill="#FFF1F2" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" text-anchor="start"><tspan x="104.0">4.8x</tspan></text>
+  <text x="104.0" y="450.4" fill="#FDA4AF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" text-anchor="start"><tspan x="104.0">Campaign ROI</tspan></text>
+  <rect x="104.0" y="472.4" width="447.0" height="6.0" rx="3.0" fill="rgba(255, 255, 255, 0.12)" />
+  <rect x="104.0" y="472.4" width="393.4" height="6.0" rx="3.0" fill="#F43F5E" />
+  <rect x="625.0" y="312.4" width="495.0" height="190.0" rx="20.0" fill="rgba(48, 14, 40, 0.72)" stroke="rgba(244, 63, 94, 0.32)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <path d="M 645.0,312.4 H 1100.0" stroke="url(#accentGradient)" stroke-width="3" stroke-linecap="round" />
+  <g transform="translate(649.0, 336.4) scale(1.167)" stroke="#FB923C" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></g>
+  <rect x="1000.0" y="334.4" width="127.0" height="24.0" rx="12.0" fill="rgba(16, 185, 129, 0.15)" stroke="#34D399" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(1008.0, 339.4) scale(0.583)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <text x="1028.0" y="349.9" fill="#34D399" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">VIRAL ADOPTION</text>
+  <text x="649.0" y="417.4" fill="#FFF1F2" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" text-anchor="start"><tspan x="649.0">68%</tspan></text>
+  <text x="649.0" y="450.4" fill="#FDA4AF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" text-anchor="start"><tspan x="649.0">Organic Referral Share</tspan></text>
+  <rect x="649.0" y="472.4" width="447.0" height="6.0" rx="3.0" fill="rgba(255, 255, 255, 0.12)" />
+  <rect x="649.0" y="472.4" width="304.0" height="6.0" rx="3.0" fill="#F43F5E" />
+  <rect x="80.0" y="532.4" width="495.0" height="190.0" rx="20.0" fill="rgba(48, 14, 40, 0.72)" stroke="rgba(244, 63, 94, 0.32)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <path d="M 100.0,532.4 H 555.0" stroke="url(#accentGradient)" stroke-width="3" stroke-linecap="round" />
+  <g transform="translate(104.0, 556.4) scale(1.167)" stroke="#FB923C" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></g>
+  <rect x="455.0" y="554.4" width="107.5" height="24.0" rx="12.0" fill="rgba(16, 185, 129, 0.15)" stroke="#34D399" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(463.0, 559.4) scale(0.583)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <text x="483.0" y="569.9" fill="#34D399" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">+140% REACH</text>
+  <text x="104.0" y="637.4" fill="#FFF1F2" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" text-anchor="start"><tspan x="104.0">2.4M</tspan></text>
+  <text x="104.0" y="670.4" fill="#FDA4AF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" text-anchor="start"><tspan x="104.0">Audience Impressions</tspan></text>
+  <rect x="104.0" y="692.4" width="447.0" height="6.0" rx="3.0" fill="rgba(255, 255, 255, 0.12)" />
+  <rect x="104.0" y="692.4" width="411.2" height="6.0" rx="3.0" fill="#F43F5E" />
+  <rect x="625.0" y="532.4" width="495.0" height="190.0" rx="20.0" fill="rgba(48, 14, 40, 0.72)" stroke="rgba(244, 63, 94, 0.32)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <path d="M 645.0,532.4 H 1100.0" stroke="url(#accentGradient)" stroke-width="3" stroke-linecap="round" />
+  <g transform="translate(649.0, 556.4) scale(1.167)" stroke="#FB923C" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></g>
+  <rect x="1000.0" y="554.4" width="140.0" height="24.0" rx="12.0" fill="rgba(16, 185, 129, 0.15)" stroke="#34D399" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(1008.0, 559.4) scale(0.583)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <text x="1028.0" y="569.9" fill="#34D399" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">TOP 1% BENCHMARK</text>
+  <text x="649.0" y="637.4" fill="#FFF1F2" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" text-anchor="start"><tspan x="649.0">34.5%</tspan></text>
+  <text x="649.0" y="670.4" fill="#FDA4AF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" text-anchor="start"><tspan x="649.0">Click-Through Velocity</tspan></text>
+  <rect x="649.0" y="692.4" width="447.0" height="6.0" rx="3.0" fill="rgba(255, 255, 255, 0.12)" />
+  <rect x="649.0" y="692.4" width="379.9" height="6.0" rx="3.0" fill="#F43F5E" />
+  <line x1="60" y1="762.0" x2="1140" y2="762.0" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
+  <text x="600.0" y="776.0" fill="#FDA4AF" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="500" opacity="0.65" text-anchor="middle" letter-spacing="0.8px">AI Design Engine • Shri Genesis Software Solutions • Marketing</text>
+</svg>

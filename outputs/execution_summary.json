@@ -1,0 +1,10 @@
+{
+  "total_generated": 104,
+  "successful_outputs": 104,
+  "warning_outputs": 0,
+  "failed_outputs": 0,
+  "total_execution_time_sec": 0.32,
+  "average_time_per_design_ms": 3.1,
+  "average_quality_score": 100.0,
+  "manifest_path": "outputs\\manifest.json"
+}

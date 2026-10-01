@@ -1,0 +1,5417 @@
+{
+  "total": 104,
+  "passed": 104,
+  "warnings": 0,
+  "failed": 0,
+  "average_score": 100.0,
+  "results": [
+    {
+      "svg_file": "outputs\\Business and Startups\\biz_001_lean_startup_methodology_from_mvp_to_sca.svg",
+      "id": "biz_001_lean_startup_methodology_from_mvp_to_sca",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.21,
+      "element_count": 101,
+      "contrast_ratio": 19.3
+    },
+    {
+      "svg_file": "outputs\\Business and Startups\\biz_002_saas_unit_economics_ltv_cac_net_retentio.svg",
+      "id": "biz_002_saas_unit_economics_ltv_cac_net_retentio",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 17 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.6,
+      "element_count": 105,
+      "contrast_ratio": 17.1
+    },
+    {
+      "svg_file": "outputs\\Business and Startups\\biz_003_bootstrapping_vs_venture_capital_growth_.svg",
+      "id": "biz_003_bootstrapping_vs_venture_capital_growth_",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.65,
+      "element_count": 107,
+      "contrast_ratio": 18.4
+    },
+    {
+      "svg_file": "outputs\\Business and Startups\\biz_004_enterprise_founders_accelerator_launch.svg",
+      "id": "biz_004_enterprise_founders_accelerator_launch",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.37,
+      "element_count": 85,
+      "contrast_ratio": 16.3
+    },
+    {
+      "svg_file": "outputs\\Business and Startups\\biz_005_product_market_fit_validation_framework.svg",
+      "id": "biz_005_product_market_fit_validation_framework",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 22 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.6:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.94,
+      "element_count": 120,
+      "contrast_ratio": 16.6
+    },
+    {
+      "svg_file": "outputs\\Business and Startups\\biz_006_the_mindset_of_resilient_venture_leaders.svg",
+      "id": "biz_006_the_mindset_of_resilient_venture_leaders",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 4.99,
+      "element_count": 50,
+      "contrast_ratio": 19.4
+    },
+    {
+      "svg_file": "outputs\\Business and Startups\\biz_007_essential_features_of_high_growth_scalin.svg",
+      "id": "biz_007_essential_features_of_high_growth_scalin",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 14.23,
+      "element_count": 137,
+      "contrast_ratio": 17.1
+    },
+    {
+      "svg_file": "outputs\\Business and Startups\\biz_008_startup_runway_optimization_capital_heal.svg",
+      "id": "biz_008_startup_runway_optimization_capital_heal",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 14.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.56,
+      "element_count": 78,
+      "contrast_ratio": 14.4
+    },
+    {
+      "svg_file": "outputs\\Corporate Announcements\\corp_001_strategic_enterprise_merger_unified_solu.svg",
+      "id": "corp_001_strategic_enterprise_merger_unified_solu",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.29,
+      "element_count": 83,
+      "contrast_ratio": 17.1
+    },
+    {
+      "svg_file": "outputs\\Corporate Announcements\\corp_002_global_innovation_hub_expansion_across_t.svg",
+      "id": "corp_002_global_innovation_hub_expansion_across_t",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 17 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 12.5:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.84,
+      "element_count": 108,
+      "contrast_ratio": 12.5
+    },
+    {
+      "svg_file": "outputs\\Corporate Announcements\\corp_003_next_gen_ai_core_platform_architecture_l.svg",
+      "id": "corp_003_next_gen_ai_core_platform_architecture_l",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.2,
+      "element_count": 82,
+      "contrast_ratio": 19.7
+    },
+    {
+      "svg_file": "outputs\\Corporate Announcements\\corp_004_enterprise_cloud_migration_phased_rollou.svg",
+      "id": "corp_004_enterprise_cloud_migration_phased_rollou",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.9:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.3,
+      "element_count": 102,
+      "contrast_ratio": 17.9
+    },
+    {
+      "svg_file": "outputs\\Corporate Announcements\\corp_005_annual_shri_genesis_technology_innovatio.svg",
+      "id": "corp_005_annual_shri_genesis_technology_innovatio",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.42,
+      "element_count": 86,
+      "contrast_ratio": 16.7
+    },
+    {
+      "svg_file": "outputs\\Corporate Announcements\\corp_006_leading_through_innovation_empathy_and_i.svg",
+      "id": "corp_006_leading_through_innovation_empathy_and_i",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 5.06,
+      "element_count": 51,
+      "contrast_ratio": 19.4
+    },
+    {
+      "svg_file": "outputs\\Corporate Announcements\\corp_007_top_5_corporate_sustainability_pledges_f.svg",
+      "id": "corp_007_top_5_corporate_sustainability_pledges_f",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 15.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.79,
+      "element_count": 109,
+      "contrast_ratio": 15.1
+    },
+    {
+      "svg_file": "outputs\\Corporate Announcements\\corp_008_quarterly_financial_record_market_share_.svg",
+      "id": "corp_008_quarterly_financial_record_market_share_",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.76,
+      "element_count": 81,
+      "contrast_ratio": 18.0
+    },
+    {
+      "svg_file": "outputs\\Cybersecurity\\sec_001_zero_trust_network_access_identity_archi.svg",
+      "id": "sec_001_zero_trust_network_access_identity_archi",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 14.09,
+      "element_count": 133,
+      "contrast_ratio": 17.4
+    },
+    {
+      "svg_file": "outputs\\Cybersecurity\\sec_002_global_threat_intelligence_ransomware_ve.svg",
+      "id": "sec_002_global_threat_intelligence_ransomware_ve",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 16 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.4,
+      "element_count": 102,
+      "contrast_ratio": 17.4
+    },
+    {
+      "svg_file": "outputs\\Cybersecurity\\sec_003_continuous_soc_monitoring_vs_periodic_au.svg",
+      "id": "sec_003_continuous_soc_monitoring_vs_periodic_au",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.2:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.63,
+      "element_count": 107,
+      "contrast_ratio": 18.2
+    },
+    {
+      "svg_file": "outputs\\Cybersecurity\\sec_004_incident_response_breach_containment_pro.svg",
+      "id": "sec_004_incident_response_breach_containment_pro",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.29,
+      "element_count": 102,
+      "contrast_ratio": 19.7
+    },
+    {
+      "svg_file": "outputs\\Cybersecurity\\sec_005_autonomous_endpoint_protection_platform.svg",
+      "id": "sec_005_autonomous_endpoint_protection_platform",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.25,
+      "element_count": 82,
+      "contrast_ratio": 17.4
+    },
+    {
+      "svg_file": "outputs\\Cybersecurity\\sec_006_security_is_never_a_state_it_is_a_contin.svg",
+      "id": "sec_006_security_is_never_a_state_it_is_a_contin",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 5.06,
+      "element_count": 51,
+      "contrast_ratio": 17.7
+    },
+    {
+      "svg_file": "outputs\\Cybersecurity\\sec_007_5_critical_cyber_defense_controls_for_cl.svg",
+      "id": "sec_007_5_critical_cyber_defense_controls_for_cl",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.61,
+      "element_count": 109,
+      "contrast_ratio": 19.1
+    },
+    {
+      "svg_file": "outputs\\Cybersecurity\\sec_008_enterprise_threat_defense_resilience_ind.svg",
+      "id": "sec_008_enterprise_threat_defense_resilience_ind",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.58,
+      "element_count": 78,
+      "contrast_ratio": 19.7
+    },
+    {
+      "svg_file": "outputs\\E-commerce\\ecom_001_headless_commerce_architecture_instant_c.svg",
+      "id": "ecom_001_headless_commerce_architecture_instant_c",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 14.01,
+      "element_count": 129,
+      "contrast_ratio": 16.3
+    },
+    {
+      "svg_file": "outputs\\E-commerce\\ecom_002_cart_abandonment_reduction_conversion_ra.svg",
+      "id": "ecom_002_cart_abandonment_reduction_conversion_ra",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 17 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.66,
+      "element_count": 106,
+      "contrast_ratio": 17.1
+    },
+    {
+      "svg_file": "outputs\\E-commerce\\ecom_003_personalized_recommendations_vs_generic_.svg",
+      "id": "ecom_003_personalized_recommendations_vs_generic_",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.6:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.62,
+      "element_count": 107,
+      "contrast_ratio": 17.6
+    },
+    {
+      "svg_file": "outputs\\E-commerce\\ecom_004_end_to_end_smart_fulfillment_logistics_p.svg",
+      "id": "ecom_004_end_to_end_smart_fulfillment_logistics_p",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.8:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.28,
+      "element_count": 102,
+      "contrast_ratio": 16.8
+    },
+    {
+      "svg_file": "outputs\\E-commerce\\ecom_005_unified_digital_storefront_multichannel_.svg",
+      "id": "ecom_005_unified_digital_storefront_multichannel_",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.33,
+      "element_count": 82,
+      "contrast_ratio": 16.3
+    },
+    {
+      "svg_file": "outputs\\E-commerce\\ecom_006_the_best_digital_store_feels_tailored_fo.svg",
+      "id": "ecom_006_the_best_digital_store_feels_tailored_fo",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 4.91,
+      "element_count": 49,
+      "contrast_ratio": 19.4
+    },
+    {
+      "svg_file": "outputs\\E-commerce\\ecom_007_5_levers_to_double_your_online_store_che.svg",
+      "id": "ecom_007_5_levers_to_double_your_online_store_che",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.56,
+      "element_count": 105,
+      "contrast_ratio": 18.4
+    },
+    {
+      "svg_file": "outputs\\E-commerce\\ecom_008_global_cross_border_e_commerce_volume_re.svg",
+      "id": "ecom_008_global_cross_border_e_commerce_volume_re",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.47,
+      "element_count": 76,
+      "contrast_ratio": 18.0
+    },
+    {
+      "svg_file": "outputs\\Education\\edu_001_adaptive_learning_systems_ai_tutors.svg",
+      "id": "edu_001_adaptive_learning_systems_ai_tutors",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 22 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.9:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.68,
+      "element_count": 114,
+      "contrast_ratio": 17.9
+    },
+    {
+      "svg_file": "outputs\\Education\\edu_002_5_learning_pedagogies_for_higher_retenti.svg",
+      "id": "edu_002_5_learning_pedagogies_for_higher_retenti",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.6:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.45,
+      "element_count": 106,
+      "contrast_ratio": 16.6
+    },
+    {
+      "svg_file": "outputs\\Education\\edu_003_continuous_upskilling_vs_stagnant_workfo.svg",
+      "id": "edu_003_continuous_upskilling_vs_stagnant_workfo",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.6:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.58,
+      "element_count": 107,
+      "contrast_ratio": 17.6
+    },
+    {
+      "svg_file": "outputs\\Education\\edu_004_global_stem_literacy_milestones_metrics.svg",
+      "id": "edu_004_global_stem_literacy_milestones_metrics",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 17 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.62,
+      "element_count": 103,
+      "contrast_ratio": 16.1
+    },
+    {
+      "svg_file": "outputs\\Education\\edu_005_next_gen_interactive_virtual_classrooms.svg",
+      "id": "edu_005_next_gen_interactive_virtual_classrooms",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.27,
+      "element_count": 83,
+      "contrast_ratio": 16.7
+    },
+    {
+      "svg_file": "outputs\\Education\\edu_006_lifelong_curiosity_as_the_ultimate_compe.svg",
+      "id": "edu_006_lifelong_curiosity_as_the_ultimate_compe",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 4.94,
+      "element_count": 49,
+      "contrast_ratio": 17.7
+    },
+    {
+      "svg_file": "outputs\\Education\\edu_007_the_journey_to_technical_mastery.svg",
+      "id": "edu_007_the_journey_to_technical_mastery",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 15.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.2,
+      "element_count": 101,
+      "contrast_ratio": 15.1
+    },
+    {
+      "svg_file": "outputs\\Education\\edu_008_modern_digital_learning_platform_archite.svg",
+      "id": "edu_008_modern_digital_learning_platform_archite",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 12.5:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 13.97,
+      "element_count": 131,
+      "contrast_ratio": 12.5
+    },
+    {
+      "svg_file": "outputs\\Finance\\fin_001_algorithmic_wealth_management_portfolio_.svg",
+      "id": "fin_001_algorithmic_wealth_management_portfolio_",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 13.94,
+      "element_count": 136,
+      "contrast_ratio": 18.0
+    },
+    {
+      "svg_file": "outputs\\Finance\\fin_002_decentralized_finance_growth_security_me.svg",
+      "id": "fin_002_decentralized_finance_growth_security_me",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 17 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.64,
+      "element_count": 106,
+      "contrast_ratio": 18.0
+    },
+    {
+      "svg_file": "outputs\\Finance\\fin_003_compound_investing_vs_speculative_tradin.svg",
+      "id": "fin_003_compound_investing_vs_speculative_tradin",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.5:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.57,
+      "element_count": 107,
+      "contrast_ratio": 18.5
+    },
+    {
+      "svg_file": "outputs\\Finance\\fin_004_the_roadmap_to_long_term_financial_indep.svg",
+      "id": "fin_004_the_roadmap_to_long_term_financial_indep",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 15.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.27,
+      "element_count": 102,
+      "contrast_ratio": 15.1
+    },
+    {
+      "svg_file": "outputs\\Finance\\fin_005_institutional_treasury_high_yield_liquid.svg",
+      "id": "fin_005_institutional_treasury_high_yield_liquid",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.43,
+      "element_count": 89,
+      "contrast_ratio": 17.1
+    },
+    {
+      "svg_file": "outputs\\Finance\\fin_006_risk_management_as_the_core_of_alpha_gen.svg",
+      "id": "fin_006_risk_management_as_the_core_of_alpha_gen",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 4.9,
+      "element_count": 49,
+      "contrast_ratio": 19.3
+    },
+    {
+      "svg_file": "outputs\\Finance\\fin_007_5_crucial_pillars_of_personal_wealth_pre.svg",
+      "id": "fin_007_5_crucial_pillars_of_personal_wealth_pre",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.54,
+      "element_count": 110,
+      "contrast_ratio": 19.4
+    },
+    {
+      "svg_file": "outputs\\Finance\\fin_008_annual_global_wealth_benchmark_insights.svg",
+      "id": "fin_008_annual_global_wealth_benchmark_insights",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.57,
+      "element_count": 79,
+      "contrast_ratio": 18.0
+    },
+    {
+      "svg_file": "outputs\\Healthcare\\health_001_ai_in_medical_diagnostics_clinical_preci.svg",
+      "id": "health_001_ai_in_medical_diagnostics_clinical_preci",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 14.15,
+      "element_count": 132,
+      "contrast_ratio": 16.1
+    },
+    {
+      "svg_file": "outputs\\Healthcare\\health_002_telemedicine_adoption_patient_outcomes.svg",
+      "id": "health_002_telemedicine_adoption_patient_outcomes",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 17 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 12.5:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.82,
+      "element_count": 105,
+      "contrast_ratio": 12.5
+    },
+    {
+      "svg_file": "outputs\\Healthcare\\health_003_preventative_wellness_vs_reactive_health.svg",
+      "id": "health_003_preventative_wellness_vs_reactive_health",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 14.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.62,
+      "element_count": 107,
+      "contrast_ratio": 14.4
+    },
+    {
+      "svg_file": "outputs\\Healthcare\\health_004_clinical_trial_phases_patient_safety_pro.svg",
+      "id": "health_004_clinical_trial_phases_patient_safety_pro",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.8:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.33,
+      "element_count": 103,
+      "contrast_ratio": 16.8
+    },
+    {
+      "svg_file": "outputs\\Healthcare\\health_005_comprehensive_digital_health_suite.svg",
+      "id": "health_005_comprehensive_digital_health_suite",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.6:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.48,
+      "element_count": 81,
+      "contrast_ratio": 16.6
+    },
+    {
+      "svg_file": "outputs\\Healthcare\\health_006_compassion_and_precision_in_modern_medic.svg",
+      "id": "health_006_compassion_and_precision_in_modern_medic",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.8:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 4.96,
+      "element_count": 50,
+      "contrast_ratio": 16.8
+    },
+    {
+      "svg_file": "outputs\\Healthcare\\health_007_5_habits_for_sustainable_mental_physical.svg",
+      "id": "health_007_5_habits_for_sustainable_mental_physical",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 15.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.7,
+      "element_count": 105,
+      "contrast_ratio": 15.1
+    },
+    {
+      "svg_file": "outputs\\Healthcare\\health_008_global_health_resilience_care_delivery.svg",
+      "id": "health_008_global_health_resilience_care_delivery",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 7.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.75,
+      "element_count": 78,
+      "contrast_ratio": 7.0
+    },
+    {
+      "svg_file": "outputs\\Marketing\\mkt_001_ai_driven_omnichannel_marketing_automati.svg",
+      "id": "mkt_001_ai_driven_omnichannel_marketing_automati",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 14.04,
+      "element_count": 137,
+      "contrast_ratio": 16.3
+    },
+    {
+      "svg_file": "outputs\\Marketing\\mkt_002_customer_acquisition_cost_vs_lifetime_va.svg",
+      "id": "mkt_002_customer_acquisition_cost_vs_lifetime_va",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 16 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.5,
+      "element_count": 108,
+      "contrast_ratio": 16.3
+    },
+    {
+      "svg_file": "outputs\\Marketing\\mkt_003_organic_growth_strategy_vs_paid_performa.svg",
+      "id": "mkt_003_organic_growth_strategy_vs_paid_performa",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.6:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.61,
+      "element_count": 107,
+      "contrast_ratio": 17.6
+    },
+    {
+      "svg_file": "outputs\\Marketing\\mkt_004_high_converting_growth_funnel_architectu.svg",
+      "id": "mkt_004_high_converting_growth_funnel_architectu",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.27,
+      "element_count": 102,
+      "contrast_ratio": 18.0
+    },
+    {
+      "svg_file": "outputs\\Marketing\\mkt_005_transform_brand_engagement_with_intellig.svg",
+      "id": "mkt_005_transform_brand_engagement_with_intellig",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.37,
+      "element_count": 86,
+      "contrast_ratio": 16.7
+    },
+    {
+      "svg_file": "outputs\\Marketing\\mkt_006_empathy_and_relevance_as_the_true_growth.svg",
+      "id": "mkt_006_empathy_and_relevance_as_the_true_growth",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 4.92,
+      "element_count": 49,
+      "contrast_ratio": 18.0
+    },
+    {
+      "svg_file": "outputs\\Marketing\\mkt_007_5_modern_tactics_for_content_virality_re.svg",
+      "id": "mkt_007_5_modern_tactics_for_content_virality_re",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.56,
+      "element_count": 110,
+      "contrast_ratio": 18.4
+    },
+    {
+      "svg_file": "outputs\\Marketing\\mkt_008_digital_marketing_roi_conversion_pulse.svg",
+      "id": "mkt_008_digital_marketing_roi_conversion_pulse",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.63,
+      "element_count": 82,
+      "contrast_ratio": 16.3
+    },
+    {
+      "svg_file": "outputs\\Productivity\\prod_001_deep_work_systems_attention_management.svg",
+      "id": "prod_001_deep_work_systems_attention_management",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 7.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 13.87,
+      "element_count": 133,
+      "contrast_ratio": 7.0
+    },
+    {
+      "svg_file": "outputs\\Productivity\\prod_002_context_switching_cost_flow_state_metric.svg",
+      "id": "prod_002_context_switching_cost_flow_state_metric",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 17 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.61,
+      "element_count": 105,
+      "contrast_ratio": 16.7
+    },
+    {
+      "svg_file": "outputs\\Productivity\\prod_003_async_deep_collaboration_vs_fragmented_m.svg",
+      "id": "prod_003_async_deep_collaboration_vs_fragmented_m",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.59,
+      "element_count": 107,
+      "contrast_ratio": 17.1
+    },
+    {
+      "svg_file": "outputs\\Productivity\\prod_004_peak_cognitive_performance_daily_routine.svg",
+      "id": "prod_004_peak_cognitive_performance_daily_routine",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.8:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.24,
+      "element_count": 102,
+      "contrast_ratio": 16.8
+    },
+    {
+      "svg_file": "outputs\\Productivity\\prod_005_master_your_workflow_with_intelligent_wo.svg",
+      "id": "prod_005_master_your_workflow_with_intelligent_wo",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.25,
+      "element_count": 83,
+      "contrast_ratio": 17.7
+    },
+    {
+      "svg_file": "outputs\\Productivity\\prod_006_simplicity_is_the_prerequisite_for_true_.svg",
+      "id": "prod_006_simplicity_is_the_prerequisite_for_true_",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.9:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 5.04,
+      "element_count": 51,
+      "contrast_ratio": 17.9
+    },
+    {
+      "svg_file": "outputs\\Productivity\\prod_007_5_habits_of_highly_effective_knowledge_w.svg",
+      "id": "prod_007_5_habits_of_highly_effective_knowledge_w",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.9:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.48,
+      "element_count": 109,
+      "contrast_ratio": 17.9
+    },
+    {
+      "svg_file": "outputs\\Productivity\\prod_008_executive_energy_management_output_metri.svg",
+      "id": "prod_008_executive_energy_management_output_metri",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.55,
+      "element_count": 78,
+      "contrast_ratio": 17.3
+    },
+    {
+      "svg_file": "outputs\\Real Estate\\prop_001_smart_building_automation_proptech_innov.svg",
+      "id": "prop_001_smart_building_automation_proptech_innov",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 13.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 14.09,
+      "element_count": 133,
+      "contrast_ratio": 13.1
+    },
+    {
+      "svg_file": "outputs\\Real Estate\\prop_002_commercial_real_estate_yield_capital_app.svg",
+      "id": "prop_002_commercial_real_estate_yield_capital_app",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 16 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.54,
+      "element_count": 104,
+      "contrast_ratio": 18.0
+    },
+    {
+      "svg_file": "outputs\\Real Estate\\prop_003_urban_transit_oriented_living_vs_suburba.svg",
+      "id": "prop_003_urban_transit_oriented_living_vs_suburba",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 14.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.63,
+      "element_count": 107,
+      "contrast_ratio": 14.4
+    },
+    {
+      "svg_file": "outputs\\Real Estate\\prop_004_the_real_estate_asset_acquisition_roadma.svg",
+      "id": "prop_004_the_real_estate_asset_acquisition_roadma",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.24,
+      "element_count": 102,
+      "contrast_ratio": 19.4
+    },
+    {
+      "svg_file": "outputs\\Real Estate\\prop_005_luxury_architectural_residences_showcase.svg",
+      "id": "prop_005_luxury_architectural_residences_showcase",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.38,
+      "element_count": 83,
+      "contrast_ratio": 19.4
+    },
+    {
+      "svg_file": "outputs\\Real Estate\\prop_006_architecture_is_frozen_music_and_living_.svg",
+      "id": "prop_006_architecture_is_frozen_music_and_living_",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 4.95,
+      "element_count": 49,
+      "contrast_ratio": 17.7
+    },
+    {
+      "svg_file": "outputs\\Real Estate\\prop_007_5_high_value_renovation_upgrades_with_hi.svg",
+      "id": "prop_007_5_high_value_renovation_upgrades_with_hi",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.55,
+      "element_count": 108,
+      "contrast_ratio": 19.3
+    },
+    {
+      "svg_file": "outputs\\Real Estate\\prop_008_metro_housing_market_liquidity_trends.svg",
+      "id": "prop_008_metro_housing_market_liquidity_trends",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 12.5:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.58,
+      "element_count": 77,
+      "contrast_ratio": 12.5
+    },
+    {
+      "svg_file": "outputs\\Social Media Awareness\\soc_001_digital_wellbeing_mindful_algorithm_cons.svg",
+      "id": "soc_001_digital_wellbeing_mindful_algorithm_cons",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 22 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 18.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 12.02,
+      "element_count": 119,
+      "contrast_ratio": 18.0
+    },
+    {
+      "svg_file": "outputs\\Social Media Awareness\\soc_002_screen_time_impact_cognitive_attention_s.svg",
+      "id": "soc_002_screen_time_impact_cognitive_attention_s",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 17 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.73,
+      "element_count": 107,
+      "contrast_ratio": 16.7
+    },
+    {
+      "svg_file": "outputs\\Social Media Awareness\\soc_003_authentic_human_connection_vs_algorithmi.svg",
+      "id": "soc_003_authentic_human_connection_vs_algorithmi",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.2:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.62,
+      "element_count": 107,
+      "contrast_ratio": 17.2
+    },
+    {
+      "svg_file": "outputs\\Social Media Awareness\\soc_004_the_5_day_digital_detox_clarity_reset.svg",
+      "id": "soc_004_the_5_day_digital_detox_clarity_reset",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.3,
+      "element_count": 102,
+      "contrast_ratio": 17.7
+    },
+    {
+      "svg_file": "outputs\\Social Media Awareness\\soc_005_cultivating_healthy_online_communities_c.svg",
+      "id": "soc_005_cultivating_healthy_online_communities_c",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.6:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.63,
+      "element_count": 91,
+      "contrast_ratio": 16.6
+    },
+    {
+      "svg_file": "outputs\\Social Media Awareness\\soc_006_attention_is_the_most_precious_currency_.svg",
+      "id": "soc_006_attention_is_the_most_precious_currency_",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.9:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 5.02,
+      "element_count": 50,
+      "contrast_ratio": 17.9
+    },
+    {
+      "svg_file": "outputs\\Social Media Awareness\\soc_007_5_safeguards_against_online_misinformati.svg",
+      "id": "soc_007_5_safeguards_against_online_misinformati",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.79,
+      "element_count": 110,
+      "contrast_ratio": 19.1
+    },
+    {
+      "svg_file": "outputs\\Social Media Awareness\\soc_008_digital_literacy_community_safety_standa.svg",
+      "id": "soc_008_digital_literacy_community_safety_standa",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.3:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.64,
+      "element_count": 80,
+      "contrast_ratio": 16.3
+    },
+    {
+      "svg_file": "outputs\\Sustainability\\sust_001_net_zero_carbon_transition_clean_grid_in.svg",
+      "id": "sust_001_net_zero_carbon_transition_clean_grid_in",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 14.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 14.44,
+      "element_count": 134,
+      "contrast_ratio": 14.4
+    },
+    {
+      "svg_file": "outputs\\Sustainability\\sust_002_global_renewable_energy_share_carbon_aba.svg",
+      "id": "sust_002_global_renewable_energy_share_carbon_aba",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 17 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 14.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.08,
+      "element_count": 108,
+      "contrast_ratio": 14.4
+    },
+    {
+      "svg_file": "outputs\\Sustainability\\sust_003_circular_economy_lifecycle_vs_linear_ext.svg",
+      "id": "sust_003_circular_economy_lifecycle_vs_linear_ext",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 14.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.68,
+      "element_count": 108,
+      "contrast_ratio": 14.4
+    },
+    {
+      "svg_file": "outputs\\Sustainability\\sust_004_enterprise_esg_decarbonization_roadmap.svg",
+      "id": "sust_004_enterprise_esg_decarbonization_roadmap",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.8:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.21,
+      "element_count": 101,
+      "contrast_ratio": 16.8
+    },
+    {
+      "svg_file": "outputs\\Sustainability\\sust_005_clean_energy_solutions_for_sustainable_e.svg",
+      "id": "sust_005_clean_energy_solutions_for_sustainable_e",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 14.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.65,
+      "element_count": 86,
+      "contrast_ratio": 14.4
+    },
+    {
+      "svg_file": "outputs\\Sustainability\\sust_006_we_do_not_inherit_the_earth_we_borrow_it.svg",
+      "id": "sust_006_we_do_not_inherit_the_earth_we_borrow_it",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 15.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 5.0,
+      "element_count": 50,
+      "contrast_ratio": 15.1
+    },
+    {
+      "svg_file": "outputs\\Sustainability\\sust_007_5_practical_steps_to_reduce_corporate_ca.svg",
+      "id": "sust_007_5_practical_steps_to_reduce_corporate_ca",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.8:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.92,
+      "element_count": 109,
+      "contrast_ratio": 16.8
+    },
+    {
+      "svg_file": "outputs\\Sustainability\\sust_008_global_environmental_impact_renewable_mi.svg",
+      "id": "sust_008_global_environmental_impact_renewable_mi",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 14.4:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.96,
+      "element_count": 81,
+      "contrast_ratio": 14.4
+    },
+    {
+      "svg_file": "outputs\\Technology and AI\\tech_001_generative_ai_agents_in_enterprise_softw.svg",
+      "id": "tech_001_generative_ai_agents_in_enterprise_softw",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 900 (Aspect ratio 1200x900)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 14 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 28 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 14.3,
+      "element_count": 135,
+      "contrast_ratio": 19.7
+    },
+    {
+      "svg_file": "outputs\\Technology and AI\\tech_002_quantum_computing_milestones_real_world_.svg",
+      "id": "tech_002_quantum_computing_milestones_real_world_",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 10 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 17 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 12.5:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.65,
+      "element_count": 105,
+      "contrast_ratio": 12.5
+    },
+    {
+      "svg_file": "outputs\\Technology and AI\\tech_003_edge_computing_vs_cloud_architecture.svg",
+      "id": "tech_003_edge_computing_vs_cloud_architecture",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 800 (Aspect ratio 1200x800)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 5 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 19 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 10.56,
+      "element_count": 106,
+      "contrast_ratio": 17.1
+    },
+    {
+      "svg_file": "outputs\\Technology and AI\\tech_004_autonomous_ai_agent_architecture_roadmap.svg",
+      "id": "tech_004_autonomous_ai_agent_architecture_roadmap",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1000 1300 (Aspect ratio 1000x1300)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 17 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 21 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 19.7:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.26,
+      "element_count": 102,
+      "contrast_ratio": 19.7
+    },
+    {
+      "svg_file": "outputs\\Technology and AI\\tech_005_ai_powered_automation_for_next_gen_engin.svg",
+      "id": "tech_005_ai_powered_automation_for_next_gen_engin",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1200 630 (Aspect ratio 1200x630)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 7 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 11 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.1:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 8.73,
+      "element_count": 87,
+      "contrast_ratio": 17.1
+    },
+    {
+      "svg_file": "outputs\\Technology and AI\\tech_006_ethical_ai_principles_for_responsible_in.svg",
+      "id": "tech_006_ethical_ai_principles_for_responsible_in",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 4 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 7 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 17.9:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 4.97,
+      "element_count": 49,
+      "contrast_ratio": 17.9
+    },
+    {
+      "svg_file": "outputs\\Technology and AI\\tech_007_5_core_pillars_of_modern_machine_learnin.svg",
+      "id": "tech_007_5_core_pillars_of_modern_machine_learnin",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 800 1200 (Aspect ratio 800x1200)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 12 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 24 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 16.8:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 11.94,
+      "element_count": 111,
+      "contrast_ratio": 16.8
+    },
+    {
+      "svg_file": "outputs\\Technology and AI\\tech_008_global_ai_adoption_index_2026.svg",
+      "id": "tech_008_global_ai_adoption_index_2026",
+      "category": "",
+      "topic": "",
+      "template": "",
+      "is_valid": true,
+      "quality_score": 100.0,
+      "status": "passed",
+      "errors": [],
+      "warnings": [],
+      "checks": [
+        {
+          "name": "XML Syntax",
+          "passed": true,
+          "details": "Valid XML document structure."
+        },
+        {
+          "name": "ViewBox & Scale",
+          "passed": true,
+          "details": "Valid viewBox: 0 0 1080 1080 (Aspect ratio 1080x1080)"
+        },
+        {
+          "name": "Clean Code & Security",
+          "passed": true,
+          "details": "No tracking scripts, prompt leaks, or template delimiters detected."
+        },
+        {
+          "name": "Defs Reference Integrity",
+          "passed": true,
+          "details": "All 8 url(#id) references resolve correctly in <defs>."
+        },
+        {
+          "name": "Text Layout & Bounds",
+          "passed": true,
+          "details": "All 13 text nodes comfortably fit within layout boundaries."
+        },
+        {
+          "name": "WCAG Color Contrast",
+          "passed": true,
+          "details": "Calculated peak contrast ratio: 7.0:1 (Target: >= 4.5:1)."
+        },
+        {
+          "name": "Typography Hierarchy",
+          "passed": true,
+          "details": "Clear font scale contrast observed between headline and body elements."
+        }
+      ],
+      "file_size_kb": 7.5,
+      "element_count": 76,
+      "contrast_ratio": 7.0
+    }
+  ]
+}

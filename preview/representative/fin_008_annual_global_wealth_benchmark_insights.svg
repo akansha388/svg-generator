@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+
+        <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0A0E17" />
+            <stop offset="100%" stop-color="#141B2D" />
+        </linearGradient>
+
+        <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#EAB308" />
+            <stop offset="100%" stop-color="#F59E0B" />
+        </linearGradient>
+
+        <linearGradient id="highlightGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#F59E0B" />
+            <stop offset="100%" stop-color="#FDE047" />
+        </linearGradient>
+
+        <filter id="cardShadow" x="-10%" y="-10%" width="125%" height="125%">
+            <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+        </filter>
+
+        <filter id="accentGlow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="8" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+
+        <pattern id="dotGrid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+            <circle cx="2" cy="2" r="1.2" fill="rgba(255, 255, 255, 0.05)" />
+        </pattern>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bgGradient)" />
+  <rect width="1080" height="1080" fill="url(#dotGrid)" />
+  <circle cx="918.0" cy="162.0" r="486.0" fill="#EAB308" opacity="0.12" filter="blur(60px)" />
+  <circle cx="108.0" cy="918.0" r="378.0" fill="#F59E0B" opacity="0.08" filter="blur(50px)" />
+  <path d="M 0,270.0 L 162.0,0" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" />
+  <path d="M 918.0,1080 L 1080,810.0" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" />
+  <circle cx="85" cy="85" r="14" fill="url(#accentGradient)" />
+  <text x="115.0" y="92.0" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="800" letter-spacing="1.5px" text-anchor="start"><tspan x="115.0">FINANCE</tspan></text>
+  <rect x="850.0" y="70.0" width="164.7" height="25.0" rx="12.5" fill="rgba(234, 179, 8, 0.16)" stroke="#FDE047" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(858.0, 75.5) scale(0.583)" stroke="#FDE047" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/></g>
+  <text x="878.0" y="86.3" fill="#FDE047" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2px">EXECUTIVE BRIEFING</text>
+  <text x="80.0" y="175.0" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" text-anchor="start"><tspan x="80.0">Annual Global Wealth Benchmark</tspan><tspan x="80.0" dy="49.6">Insights</tspan></text>
+  <text x="80.0" y="264.6" fill="#CBD5E1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="400" text-anchor="start"><tspan x="80.0">Comprehensive framework, key telemetry milestones, and</tspan><tspan x="80.0" dy="25.2">actionable principles for Annual Global Wealth</tspan><tspan x="80.0" dy="25.2">Benchmark Insights.</tspan></text>
+  <rect x="80.0" y="360.0" width="920.0" height="240.0" rx="24.0" fill="rgba(20, 27, 45, 0.78)" stroke="rgba(234, 179, 8, 0.28)" stroke-width="1.5" filter="url(#cardShadow)" />
+  <path d="M 104.0,360.0 H 976.0" stroke="url(#accentGradient)" stroke-width="3" stroke-linecap="round" />
+  <g transform="translate(115.0, 395.0) scale(1.333)" stroke="#FDE047" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></g>
+  <text x="160.0" y="417.0" fill="#FACC15" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="800" letter-spacing="1.2px" text-anchor="start"><tspan x="160.0">STRATEGIC IMPERATIVE</tspan></text>
+  <text x="115.0" y="475.0" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="600" text-anchor="start"><tspan x="115.0">Architectural blueprint engineered for</tspan><tspan x="115.0" dy="28.0">zero-bottleneck execution and resilience.</tspan></text>
+  <rect x="80.0" y="635.0" width="293.3" height="175.0" rx="20.0" fill="rgba(20, 27, 45, 0.78)" stroke="rgba(234, 179, 8, 0.28)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <g transform="translate(104.0, 659.0) scale(1.083)" stroke="#FDE047" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <text x="104.0" y="730.0" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" text-anchor="start"><tspan x="104.0">+28.4%</tspan></text>
+  <text x="104.0" y="765.0" fill="#CBD5E1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" text-anchor="start"><tspan x="104.0">Net Annualized</tspan><tspan x="104.0" dy="17.5">Yield</tspan></text>
+  <rect x="393.3" y="635.0" width="293.3" height="175.0" rx="20.0" fill="rgba(20, 27, 45, 0.78)" stroke="rgba(234, 179, 8, 0.28)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <g transform="translate(417.3, 659.0) scale(1.083)" stroke="#FDE047" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></g>
+  <text x="417.3" y="730.0" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" text-anchor="start"><tspan x="417.3">$1.2B+</tspan></text>
+  <text x="417.3" y="765.0" fill="#CBD5E1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" text-anchor="start"><tspan x="417.3">Assets Supervised</tspan></text>
+  <rect x="706.7" y="635.0" width="293.3" height="175.0" rx="20.0" fill="rgba(20, 27, 45, 0.78)" stroke="rgba(234, 179, 8, 0.28)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <g transform="translate(730.7, 659.0) scale(1.083)" stroke="#FDE047" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12V7H5a2 2 0 0 1 0-4h14v4"/><path d="M3 5v14a2 2 0 0 0 2 2h16v-5"/><circle cx="16" cy="14" r="1"/></g>
+  <text x="730.7" y="730.0" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" text-anchor="start"><tspan x="730.7">0.12%</tspan></text>
+  <text x="730.7" y="765.0" fill="#CBD5E1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" text-anchor="start"><tspan x="730.7">Minimized Fee</tspan><tspan x="730.7" dy="17.5">Ratio</tspan></text>
+  <line x1="60" y1="1042.0" x2="1020" y2="1042.0" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
+  <text x="540.0" y="1056.0" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="500" opacity="0.65" text-anchor="middle" letter-spacing="0.8px">AI Design Engine • Shri Genesis Software Solutions • Finance</text>
+</svg>

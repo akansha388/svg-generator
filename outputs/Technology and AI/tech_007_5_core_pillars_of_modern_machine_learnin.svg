@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" width="800" height="1200">
+  <defs>
+
+        <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#04202C" />
+            <stop offset="100%" stop-color="#083344" />
+        </linearGradient>
+
+        <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#0D9488" />
+            <stop offset="100%" stop-color="#06B6D4" />
+        </linearGradient>
+
+        <linearGradient id="highlightGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#06B6D4" />
+            <stop offset="100%" stop-color="#2DD4BF" />
+        </linearGradient>
+
+        <filter id="cardShadow" x="-10%" y="-10%" width="125%" height="125%">
+            <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+        </filter>
+
+        <filter id="accentGlow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="8" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+
+        <pattern id="dotGrid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+            <circle cx="2" cy="2" r="1.2" fill="rgba(255, 255, 255, 0.05)" />
+        </pattern>
+  </defs>
+  <rect width="800" height="1200" fill="url(#bgGradient)" />
+  <rect width="800" height="1200" fill="url(#dotGrid)" />
+  <circle cx="680.0" cy="180.0" r="360.0" fill="#0D9488" opacity="0.12" filter="blur(60px)" />
+  <circle cx="80.0" cy="1020.0" r="280.0" fill="#06B6D4" opacity="0.08" filter="blur(50px)" />
+  <path d="M 0,300.0 L 120.0,0" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" />
+  <path d="M 680.0,1200 L 800,900.0" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" />
+  <rect x="60.0" y="60.0" width="279.1" height="25.0" rx="12.5" fill="rgba(13, 148, 136, 0.20)" stroke="#CCFBF1" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(68.0, 65.5) scale(0.583)" stroke="#CCFBF1" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></g>
+  <text x="88.0" y="76.3" fill="#CCFBF1" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2px">TOP STRATEGIES • TECHNOLOGY AND AI</text>
+  <text x="60.0" y="125.0" fill="#F0FDFA" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="32" font-weight="800" text-anchor="start"><tspan x="60.0">5 Core Pillars of Modern Machine</tspan><tspan x="60.0" dy="38.4">Learning Pipelines</tspan></text>
+  <text x="60.0" y="193.4" fill="#99F6E4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" text-anchor="start"><tspan x="60.0">Comprehensive framework, key telemetry milestones, and</tspan><tspan x="60.0" dy="22.4">actionable principles for 5 Core Pillars of Modern</tspan><tspan x="60.0" dy="22.4">Machine Learning Pipelines.</tspan></text>
+  <rect x="60.0" y="278.2" width="680.0" height="135.0" rx="16.0" fill="rgba(8, 51, 68, 0.70)" stroke="rgba(45, 212, 191, 0.25)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <rect x="80.0" y="298.2" width="46" height="46" rx="12" fill="url(#accentGradient)" />
+  <text x="103.0" y="327.2" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" text-anchor="middle"><tspan x="103.0">01</tspan></text>
+  <g transform="translate(145.0, 306.2) scale(1.167)" stroke="#2DD4BF" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M9 1v3M15 1v3M9 20v3M15 20v3M20 9h3M20 14h3M1 9h3M1 14h3"/></g>
+  <rect x="600.0" y="296.2" width="82.5" height="24.0" rx="12.0" fill="rgba(255, 255, 255, 0.05)" stroke="#5EEAD4" stroke-width="1" stroke-opacity="0.35" />
+  <text x="612.0" y="311.7" fill="#5EEAD4" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">PILLAR 01</text>
+  <text x="190.0" y="323.2" fill="#F0FDFA" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" text-anchor="start"><tspan x="190.0">Core Architecture</tspan></text>
+  <text x="190.0" y="353.2" fill="#99F6E4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" text-anchor="start"><tspan x="190.0">Architectural blueprint engineered for zero-bottleneck</tspan><tspan x="190.0" dy="17.6">execution and resilience.</tspan></text>
+  <rect x="60.0" y="431.2" width="680.0" height="135.0" rx="16.0" fill="rgba(8, 51, 68, 0.70)" stroke="rgba(45, 212, 191, 0.25)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <rect x="80.0" y="451.2" width="46" height="46" rx="12" fill="url(#accentGradient)" />
+  <text x="103.0" y="480.2" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" text-anchor="middle"><tspan x="103.0">02</tspan></text>
+  <g transform="translate(145.0, 459.2) scale(1.167)" stroke="#2DD4BF" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 2A2.5 2.5 0 0 1 12 4.5v15a2.5 2.5 0 0 1-4.96.44 2.5 2.5 0 0 1-2.96-3.08 3 3 0 0 1-.34-5.58 2.5 2.5 0 0 1 1.32-4.24 2.5 2.5 0 0 1 4.44-2.04zM14.5 2A2.5 2.5 0 0 0 12 4.5v15a2.5 2.5 0 0 0 4.96.44 2.5 2.5 0 0 0 2.96-3.08 3 3 0 0 0 .34-5.58 2.5 2.5 0 0 0-1.32-4.24 2.5 2.5 0 0 0-4.44-2.04z"/></g>
+  <rect x="600.0" y="449.2" width="82.5" height="24.0" rx="12.0" fill="rgba(255, 255, 255, 0.05)" stroke="#5EEAD4" stroke-width="1" stroke-opacity="0.35" />
+  <text x="612.0" y="464.7" fill="#5EEAD4" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">PILLAR 02</text>
+  <text x="190.0" y="476.2" fill="#F0FDFA" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" text-anchor="start"><tspan x="190.0">Autonomous Governance</tspan></text>
+  <text x="190.0" y="506.2" fill="#99F6E4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" text-anchor="start"><tspan x="190.0">Continuous cryptographic validation ensuring</tspan><tspan x="190.0" dy="17.6">compliance and rigorous safety.</tspan></text>
+  <rect x="60.0" y="584.2" width="680.0" height="135.0" rx="16.0" fill="rgba(8, 51, 68, 0.70)" stroke="rgba(45, 212, 191, 0.25)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <rect x="80.0" y="604.2" width="46" height="46" rx="12" fill="url(#accentGradient)" />
+  <text x="103.0" y="633.2" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" text-anchor="middle"><tspan x="103.0">03</tspan></text>
+  <g transform="translate(145.0, 612.2) scale(1.167)" stroke="#2DD4BF" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><rect x="16" y="16" width="6" height="6" rx="1"/><rect x="2" y="16" width="6" height="6" rx="1"/><rect x="9" y="2" width="6" height="6" rx="1"/><path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3M12 8v4"/></g>
+  <rect x="600.0" y="602.2" width="82.5" height="24.0" rx="12.0" fill="rgba(255, 255, 255, 0.05)" stroke="#5EEAD4" stroke-width="1" stroke-opacity="0.35" />
+  <text x="612.0" y="617.7" fill="#5EEAD4" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">PILLAR 03</text>
+  <text x="190.0" y="629.2" fill="#F0FDFA" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" text-anchor="start"><tspan x="190.0">Predictive Telemetry</tspan></text>
+  <text x="190.0" y="659.2" fill="#99F6E4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" text-anchor="start"><tspan x="190.0">Real-time streaming observability with proactive</tspan><tspan x="190.0" dy="17.6">anomaly resolution.</tspan></text>
+  <rect x="60.0" y="737.2" width="680.0" height="135.0" rx="16.0" fill="rgba(8, 51, 68, 0.70)" stroke="rgba(45, 212, 191, 0.25)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <rect x="80.0" y="757.2" width="46" height="46" rx="12" fill="url(#accentGradient)" />
+  <text x="103.0" y="786.2" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" text-anchor="middle"><tspan x="103.0">04</tspan></text>
+  <g transform="translate(145.0, 765.2) scale(1.167)" stroke="#2DD4BF" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2" ry="2"/><rect x="2" y="14" width="20" height="8" rx="2" ry="2"/><line x1="6" y1="6" x2="6.01" y2="6"/><line x1="6" y1="18" x2="6.01" y2="18"/></g>
+  <rect x="600.0" y="755.2" width="82.5" height="24.0" rx="12.0" fill="rgba(255, 255, 255, 0.05)" stroke="#5EEAD4" stroke-width="1" stroke-opacity="0.35" />
+  <text x="612.0" y="770.7" fill="#5EEAD4" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">PILLAR 04</text>
+  <text x="190.0" y="782.2" fill="#F0FDFA" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" text-anchor="start"><tspan x="190.0">Frictionless Integration</tspan></text>
+  <text x="190.0" y="812.2" fill="#99F6E4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" text-anchor="start"><tspan x="190.0">Plug-and-play modular APIs supporting seamless</tspan><tspan x="190.0" dy="17.6">cross-system federation.</tspan></text>
+  <rect x="60.0" y="890.2" width="680.0" height="135.0" rx="16.0" fill="rgba(8, 51, 68, 0.70)" stroke="rgba(45, 212, 191, 0.25)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <rect x="80.0" y="910.2" width="46" height="46" rx="12" fill="url(#accentGradient)" />
+  <text x="103.0" y="939.2" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" text-anchor="middle"><tspan x="103.0">05</tspan></text>
+  <g transform="translate(145.0, 918.2) scale(1.167)" stroke="#2DD4BF" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></g>
+  <rect x="600.0" y="908.2" width="82.5" height="24.0" rx="12.0" fill="rgba(255, 255, 255, 0.05)" stroke="#5EEAD4" stroke-width="1" stroke-opacity="0.35" />
+  <text x="612.0" y="923.7" fill="#5EEAD4" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">PILLAR 05</text>
+  <text x="190.0" y="935.2" fill="#F0FDFA" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" text-anchor="start"><tspan x="190.0">Elastic Scalability</tspan></text>
+  <text x="190.0" y="965.2" fill="#99F6E4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" text-anchor="start"><tspan x="190.0">Dynamic resource provisioning that scales effortlessly</tspan><tspan x="190.0" dy="17.6">with organizational load.</tspan></text>
+  <line x1="60" y1="1162.0" x2="740" y2="1162.0" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
+  <text x="400.0" y="1176.0" fill="#99F6E4" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="500" opacity="0.65" text-anchor="middle" letter-spacing="0.8px">AI Design Engine • Shri Genesis Software Solutions • Technology and AI</text>
+</svg>

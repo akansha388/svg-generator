@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1300" width="1000" height="1300">
+  <defs>
+
+        <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#062C21" />
+            <stop offset="100%" stop-color="#0B3C2D" />
+        </linearGradient>
+
+        <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#10B981" />
+            <stop offset="100%" stop-color="#14B8A6" />
+        </linearGradient>
+
+        <linearGradient id="highlightGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#14B8A6" />
+            <stop offset="100%" stop-color="#34D399" />
+        </linearGradient>
+
+        <filter id="cardShadow" x="-10%" y="-10%" width="125%" height="125%">
+            <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+        </filter>
+
+        <filter id="accentGlow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="8" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+
+        <pattern id="dotGrid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+            <circle cx="2" cy="2" r="1.2" fill="rgba(255, 255, 255, 0.05)" />
+        </pattern>
+  </defs>
+  <rect width="1000" height="1300" fill="url(#bgGradient)" />
+  <rect width="1000" height="1300" fill="url(#dotGrid)" />
+  <circle cx="850.0" cy="195.0" r="450.0" fill="#10B981" opacity="0.12" filter="blur(60px)" />
+  <circle cx="100.0" cy="1105.0" r="350.0" fill="#14B8A6" opacity="0.08" filter="blur(50px)" />
+  <path d="M 0,325.0 L 150.0,0" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" />
+  <path d="M 850.0,1300 L 1000,975.0" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" />
+  <rect x="80.0" y="65.0" width="277.8" height="26.0" rx="13.0" fill="rgba(16, 185, 129, 0.20)" stroke="#A7F3D0" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(88.0, 71.0) scale(0.583)" stroke="#A7F3D0" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></g>
+  <text x="108.0" y="82.2" fill="#A7F3D0" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2px">STEP-BY-STEP WORKFLOW • FINANCE</text>
+  <text x="80.0" y="135.0" fill="#F0FDF4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="800" text-anchor="start"><tspan x="80.0">The Roadmap to Long-Term Financial</tspan><tspan x="80.0" dy="42.5">Independence</tspan></text>
+  <text x="80.0" y="212.5" fill="#86EFAC" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" text-anchor="start"><tspan x="80.0">Accelerating enterprise outcomes and operational maturity</tspan><tspan x="80.0" dy="22.4">through the roadmap to long-term financial independence.</tspan></text>
+  <line x1="130" y1="279.88" x2="130" y2="834.88" stroke="rgba(255, 255, 255, 0.15)" stroke-width="4" stroke-linecap="round" />
+  <line x1="130" y1="279.88" x2="130" y2="834.88" stroke="url(#accentGradient)" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 6" />
+  <circle cx="130" cy="279.88" r="26" fill="rgba(11, 60, 45, 0.70)" stroke="url(#accentGradient)" stroke-width="3" filter="url(#cardShadow)" />
+  <text x="130.0" y="285.9" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" text-anchor="middle"><tspan x="130.0">1</tspan></text>
+  <rect x="185.0" y="249.9" width="735.0" height="145.0" rx="16.0" fill="rgba(11, 60, 45, 0.70)" stroke="rgba(52, 211, 153, 0.25)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <g transform="translate(205.0, 269.9) scale(1.083)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.9 5.8a2 2 0 0 1-1.3 1.3L3 12l5.8 1.9a2 2 0 0 1 1.3 1.3L12 21l1.9-5.8a2 2 0 0 1 1.3-1.3L21 12l-5.8-1.9a2 2 0 0 1-1.3-1.3L12 3z"/></g>
+  <rect x="810.0" y="261.9" width="76.0" height="24.0" rx="12.0" fill="rgba(255, 255, 255, 0.05)" stroke="#6EE7B7" stroke-width="1" stroke-opacity="0.35" />
+  <text x="822.0" y="277.4" fill="#6EE7B7" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">PHASE 01</text>
+  <text x="245.0" y="289.9" fill="#F0FDF4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" text-anchor="start"><tspan x="245.0">Discovery &amp; Assessment</tspan></text>
+  <text x="245.0" y="319.9" fill="#86EFAC" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" text-anchor="start"><tspan x="245.0">Audit current workflows, catalog dependencies, and</tspan><tspan x="245.0" dy="18.9">establish baseline KPIs.</tspan></text>
+  <circle cx="130" cy="464.88" r="26" fill="rgba(11, 60, 45, 0.70)" stroke="url(#accentGradient)" stroke-width="3" filter="url(#cardShadow)" />
+  <text x="130.0" y="470.9" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" text-anchor="middle"><tspan x="130.0">2</tspan></text>
+  <rect x="185.0" y="434.9" width="735.0" height="145.0" rx="16.0" fill="rgba(11, 60, 45, 0.70)" stroke="rgba(52, 211, 153, 0.25)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <g transform="translate(205.0, 454.9) scale(1.083)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></g>
+  <rect x="810.0" y="446.9" width="76.0" height="24.0" rx="12.0" fill="rgba(255, 255, 255, 0.05)" stroke="#6EE7B7" stroke-width="1" stroke-opacity="0.35" />
+  <text x="822.0" y="462.4" fill="#6EE7B7" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">PHASE 02</text>
+  <text x="245.0" y="474.9" fill="#F0FDF4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" text-anchor="start"><tspan x="245.0">Architectural Formulation</tspan></text>
+  <text x="245.0" y="504.9" fill="#86EFAC" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" text-anchor="start"><tspan x="245.0">Design decoupled system topology, contract boundaries,</tspan><tspan x="245.0" dy="18.9">and guardrails.</tspan></text>
+  <circle cx="130" cy="649.88" r="26" fill="rgba(11, 60, 45, 0.70)" stroke="url(#accentGradient)" stroke-width="3" filter="url(#cardShadow)" />
+  <text x="130.0" y="655.9" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" text-anchor="middle"><tspan x="130.0">3</tspan></text>
+  <rect x="185.0" y="619.9" width="735.0" height="145.0" rx="16.0" fill="rgba(11, 60, 45, 0.70)" stroke="rgba(52, 211, 153, 0.25)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <g transform="translate(205.0, 639.9) scale(1.083)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/><path d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"/><path d="M12 15v5s3.03.55 4-2c1.08-1.62 0-5 0-5"/></g>
+  <rect x="810.0" y="631.9" width="76.0" height="24.0" rx="12.0" fill="rgba(255, 255, 255, 0.05)" stroke="#6EE7B7" stroke-width="1" stroke-opacity="0.35" />
+  <text x="822.0" y="647.4" fill="#6EE7B7" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">PHASE 03</text>
+  <text x="245.0" y="659.9" fill="#F0FDF4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" text-anchor="start"><tspan x="245.0">Autonomous Deployment</tspan></text>
+  <text x="245.0" y="689.9" fill="#86EFAC" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" text-anchor="start"><tspan x="245.0">Roll out automated pipelines with canary verification</tspan><tspan x="245.0" dy="18.9">and traffic mirroring.</tspan></text>
+  <circle cx="130" cy="834.88" r="26" fill="rgba(11, 60, 45, 0.70)" stroke="url(#accentGradient)" stroke-width="3" filter="url(#cardShadow)" />
+  <text x="130.0" y="840.9" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" text-anchor="middle"><tspan x="130.0">4</tspan></text>
+  <rect x="185.0" y="804.9" width="735.0" height="145.0" rx="16.0" fill="rgba(11, 60, 45, 0.70)" stroke="rgba(52, 211, 153, 0.25)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <g transform="translate(205.0, 824.9) scale(1.083)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <rect x="810.0" y="816.9" width="76.0" height="24.0" rx="12.0" fill="rgba(255, 255, 255, 0.05)" stroke="#6EE7B7" stroke-width="1" stroke-opacity="0.35" />
+  <text x="822.0" y="832.4" fill="#6EE7B7" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">PHASE 04</text>
+  <text x="245.0" y="844.9" fill="#F0FDF4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" text-anchor="start"><tspan x="245.0">Continuous Telemetry &amp; Scale</tspan></text>
+  <text x="245.0" y="874.9" fill="#86EFAC" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" text-anchor="start"><tspan x="245.0">Monitor performance indicators and apply real-time</tspan><tspan x="245.0" dy="18.9">optimization heuristics.</tspan></text>
+  <rect x="80.0" y="909.9" width="840.0" height="65.0" rx="16.0" fill="url(#accentGradient)" stroke="none" stroke-width="1.0" filter="url(#cardShadow)" />
+  <g transform="translate(110.0, 927.9) scale(1.167)" stroke="#FFFFFF" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></g>
+  <text x="155.0" y="949.9" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700" text-anchor="start"><tspan x="155.0">SUCCESS MILESTONE: End-to-end verified delivery ready for deployment.</tspan></text>
+  <line x1="60" y1="1262.0" x2="940" y2="1262.0" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
+  <text x="500.0" y="1276.0" fill="#86EFAC" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="500" opacity="0.65" text-anchor="middle" letter-spacing="0.8px">AI Design Engine • Shri Genesis Software Solutions • Finance</text>
+</svg>

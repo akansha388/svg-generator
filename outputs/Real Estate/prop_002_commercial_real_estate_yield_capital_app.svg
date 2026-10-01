@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+
+        <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0A0E17" />
+            <stop offset="100%" stop-color="#141B2D" />
+        </linearGradient>
+
+        <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#EAB308" />
+            <stop offset="100%" stop-color="#F59E0B" />
+        </linearGradient>
+
+        <linearGradient id="highlightGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#F59E0B" />
+            <stop offset="100%" stop-color="#FDE047" />
+        </linearGradient>
+
+        <filter id="cardShadow" x="-10%" y="-10%" width="125%" height="125%">
+            <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+        </filter>
+
+        <filter id="accentGlow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="8" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+
+        <pattern id="dotGrid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+            <circle cx="2" cy="2" r="1.2" fill="rgba(255, 255, 255, 0.05)" />
+        </pattern>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bgGradient)" />
+  <rect width="1200" height="800" fill="url(#dotGrid)" />
+  <circle cx="1020.0" cy="120.0" r="360.0" fill="#EAB308" opacity="0.12" filter="blur(60px)" />
+  <circle cx="120.0" cy="680.0" r="280.0" fill="#F59E0B" opacity="0.08" filter="blur(50px)" />
+  <path d="M 0,200.0 L 180.0,0" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" />
+  <path d="M 1020.0,800 L 1200,600.0" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" />
+  <rect x="80.0" y="70.0" width="270.0" height="26.0" rx="13.0" fill="rgba(234, 179, 8, 0.16)" stroke="#FDE047" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(88.0, 76.0) scale(0.583)" stroke="#FDE047" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/><line x1="6" y1="20" x2="6" y2="16"/><line x1="2" y1="20" x2="22" y2="20"/></g>
+  <text x="108.0" y="87.2" fill="#FDE047" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2px">BENCHMARK REPORT • REAL ESTATE</text>
+  <text x="80.0" y="140.0" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" text-anchor="start"><tspan x="80.0">Commercial Real Estate Yield &amp; Capital</tspan><tspan x="80.0" dy="44.8">Appreciation</tspan></text>
+  <text x="80.0" y="219.8" fill="#CBD5E1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="400" text-anchor="start"><tspan x="80.0">Comprehensive framework, key telemetry milestones, and actionable</tspan><tspan x="80.0" dy="23.8">principles for Commercial Real Estate Yield &amp; Capital</tspan><tspan x="80.0" dy="23.8">Appreciation.</tspan></text>
+  <rect x="80.0" y="312.4" width="495.0" height="190.0" rx="20.0" fill="rgba(20, 27, 45, 0.78)" stroke="rgba(234, 179, 8, 0.28)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <path d="M 100.0,312.4 H 555.0" stroke="url(#accentGradient)" stroke-width="3" stroke-linecap="round" />
+  <g transform="translate(104.0, 336.4) scale(1.167)" stroke="#FDE047" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <rect x="455.0" y="334.4" width="146.5" height="24.0" rx="12.0" fill="rgba(16, 185, 129, 0.15)" stroke="#34D399" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(463.0, 339.4) scale(0.583)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <text x="483.0" y="349.9" fill="#34D399" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">+4.2% OVER MARKET</text>
+  <text x="104.0" y="417.4" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" text-anchor="start"><tspan x="104.0">12.8%</tspan></text>
+  <text x="104.0" y="450.4" fill="#CBD5E1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" text-anchor="start"><tspan x="104.0">Average Rental Yield</tspan></text>
+  <rect x="104.0" y="472.4" width="447.0" height="6.0" rx="3.0" fill="rgba(255, 255, 255, 0.12)" />
+  <rect x="104.0" y="472.4" width="379.9" height="6.0" rx="3.0" fill="#EAB308" />
+  <rect x="625.0" y="312.4" width="495.0" height="190.0" rx="20.0" fill="rgba(20, 27, 45, 0.78)" stroke="rgba(234, 179, 8, 0.28)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <path d="M 645.0,312.4 H 1100.0" stroke="url(#accentGradient)" stroke-width="3" stroke-linecap="round" />
+  <g transform="translate(649.0, 336.4) scale(1.167)" stroke="#FDE047" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></g>
+  <rect x="1000.0" y="334.4" width="146.5" height="24.0" rx="12.0" fill="rgba(16, 185, 129, 0.15)" stroke="#34D399" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(1008.0, 339.4) scale(0.583)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <text x="1028.0" y="349.9" fill="#34D399" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">+35% ANNUAL SURGE</text>
+  <text x="649.0" y="417.4" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" text-anchor="start"><tspan x="649.0">$140M</tspan></text>
+  <text x="649.0" y="450.4" fill="#CBD5E1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" text-anchor="start"><tspan x="649.0">Transaction Volume</tspan></text>
+  <rect x="649.0" y="472.4" width="447.0" height="6.0" rx="3.0" fill="rgba(255, 255, 255, 0.12)" />
+  <rect x="649.0" y="472.4" width="411.2" height="6.0" rx="3.0" fill="#EAB308" />
+  <rect x="80.0" y="532.4" width="495.0" height="190.0" rx="20.0" fill="rgba(20, 27, 45, 0.78)" stroke="rgba(234, 179, 8, 0.28)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <path d="M 100.0,532.4 H 555.0" stroke="url(#accentGradient)" stroke-width="3" stroke-linecap="round" />
+  <g transform="translate(104.0, 556.4) scale(1.167)" stroke="#FDE047" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2" ry="2"/><path d="M9 22v-4h6v4M8 6h.01M16 6h.01M12 6h.01M8 10h.01M16 10h.01M12 10h.01M8 14h.01M16 14h.01M12 14h.01"/></g>
+  <rect x="455.0" y="554.4" width="166.0" height="24.0" rx="12.0" fill="rgba(16, 185, 129, 0.15)" stroke="#34D399" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(463.0, 559.4) scale(0.583)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <text x="483.0" y="569.9" fill="#34D399" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">CONSISTENT STABILITY</text>
+  <text x="104.0" y="637.4" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" text-anchor="start"><tspan x="104.0">98.5%</tspan></text>
+  <text x="104.0" y="670.4" fill="#CBD5E1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" text-anchor="start"><tspan x="104.0">Occupancy Ratio</tspan></text>
+  <rect x="104.0" y="692.4" width="447.0" height="6.0" rx="3.0" fill="rgba(255, 255, 255, 0.12)" />
+  <rect x="104.0" y="692.4" width="438.1" height="6.0" rx="3.0" fill="#EAB308" />
+  <rect x="625.0" y="532.4" width="495.0" height="190.0" rx="20.0" fill="rgba(20, 27, 45, 0.78)" stroke="rgba(234, 179, 8, 0.28)" stroke-width="1.2" filter="url(#cardShadow)" />
+  <path d="M 645.0,532.4 H 1100.0" stroke="url(#accentGradient)" stroke-width="3" stroke-linecap="round" />
+  <g transform="translate(649.0, 556.4) scale(1.167)" stroke="#FDE047" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"/><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/></g>
+  <rect x="1000.0" y="554.4" width="153.0" height="24.0" rx="12.0" fill="rgba(16, 185, 129, 0.15)" stroke="#34D399" stroke-width="1" stroke-opacity="0.35" />
+  <g transform="translate(1008.0, 559.4) scale(0.583)" stroke="#34D399" fill="none" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></g>
+  <text x="1028.0" y="569.9" fill="#34D399" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2px">SUSTAINABLE DESIGN</text>
+  <text x="649.0" y="637.4" fill="#FEF9C3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" text-anchor="start"><tspan x="649.0">LEED Gold</tspan></text>
+  <text x="649.0" y="670.4" fill="#CBD5E1" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" text-anchor="start"><tspan x="649.0">Eco-Certification</tspan></text>
+  <rect x="649.0" y="692.4" width="447.0" height="6.0" rx="3.0" fill="rgba(255, 255, 255, 0.12)" />
+  <rect x="649.0" y="692.4" width="424.6" height="6.0" rx="3.0" fill="#EAB308" />
+  <line x1="60" y1="762.0" x2="1140" y2="762.0" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
+  <text x="600.0" y="776.0" fill="#CBD5E1" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="500" opacity="0.65" text-anchor="middle" letter-spacing="0.8px">AI Design Engine • Shri Genesis Software Solutions • Real Estate</text>
+</svg>
